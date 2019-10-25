@@ -1,0 +1,71 @@
+{
+  "name": "simple-music-player",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "repository": "https://github.com/yueshutong/SimpleMusicPlayer",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "yueshutong",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "nodemon": "^1.19.4",
+    "electron": "^6.0.12",
+    "electron-builder": "^21.2.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "bootstrap": "^4.3.1",
+    "electron-store": "^5.0.0",
+    "uuidv4": "^5.0.1",
+    "uuid": "latest"
+  },
+  "build": {
+    "appId": "SimpleMusicPlayer",
+    "productName": "音乐播放器",
+    "mac": {
+      "category": "public.app-category.productivity"
+    },
+    "dmg": {
+      "background": "build/appdmg.png",
+      "icon": "build/icon.icns",
+      "iconSize": 100,
+      "contents": [
+        {
+          "x": 380,
+          "y": 280,
+          "type": "link",
+          "path": "/Applications"
+        },
+        {
+          "x": 110,
+          "y": 280,
+          "type": "file"
+        }
+      ],
+      "window": {
+        "width": 500,
+        "height": 500
+      }
+    },
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb"
+      ]
+    },
+    "win": {
+      "target": "squirrel",
+      "icon": "build/icon.ico"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+node_modules
+electron-quick-start.iml
+.idea
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+dist
