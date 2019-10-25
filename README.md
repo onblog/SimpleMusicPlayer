@@ -116,7 +116,7 @@ el.dataset.someDataAttr = 'mydata';
 
 ## 事件冒泡与代理
 
-![图片正在加载中](https://tva1.sinaimg.cn/large/006y8mN6ly1g87zjx5vpoj314m0m4dlf.jpg)
+![图片正在加载中](https://user-images.githubusercontent.com/31175877/67548906-a67c4480-f735-11e9-9ef9-c3d426f4fa92.jpg)
 
 ## 打包
 
@@ -133,5 +133,21 @@ icns生成指南：https://www.jianshu.com/p/e74047f7cc91
 Web开发者指南：https://developer.mozilla.org/zh-CN/docs/Web/Guide
 
 一款字体图标库：https://fontawesome.com
+
+## About
+
+Blog：https://www.cnblogs.com/yueshutong/p/11737862.html
+
+Email：yster@foxmail.com
+
+交流QQ群：781927207
+
+如果帮助到你了，请不吝赞赏！谢谢！
+
+![erweima](https://user-images.githubusercontent.com/31175877/67548917-af6d1600-f735-11e9-9807-351e6a2db269.png)
+
+![扫码关注](https://user-images.githubusercontent.com/31175877/67549023-e17e7800-f735-11e9-89d4-5ca7dac0486d.png)
+
+
 
 
