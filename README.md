@@ -11,6 +11,10 @@ $ npm install
 $ npm start
 ```
 
+## 主界面图
+
+![](https://user-images.githubusercontent.com/31175877/67552484-d0396980-f73d-11e9-9b57-36d6d096b766.jpg)
+
 ### 下面是一些项目开发过程中的知识点
 
 ## 开发环境
@@ -144,9 +148,9 @@ Email：yster@foxmail.com
 
 如果帮助到你了，请不吝赞赏！谢谢！
 
-![erweima](https://user-images.githubusercontent.com/31175877/67548917-af6d1600-f735-11e9-9807-351e6a2db269.png)
+<img src="https://user-images.githubusercontent.com/31175877/67548917-af6d1600-f735-11e9-9807-351e6a2db269.png" width="300px" referrerpolicy="no-referrer">
 
-![扫码关注](https://user-images.githubusercontent.com/31175877/67549023-e17e7800-f735-11e9-89d4-5ca7dac0486d.png)
+<img src="https://user-images.githubusercontent.com/31175877/67549023-e17e7800-f735-11e9-89d4-5ca7dac0486d.png" width="300px" referrerpolicy="no-referrer">
 
 
 
