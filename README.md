@@ -140,9 +140,7 @@ Web开发者指南：https://developer.mozilla.org/zh-CN/docs/Web/Guide
 
 ## About
 
-Email：yster@foxmail.com
-
-交流QQ群：781927207
+Email：[yster@foxmail.com](mailto:yster@foxmail.com)
 
 如果帮助到你了，请不吝赞赏！谢谢！
 
