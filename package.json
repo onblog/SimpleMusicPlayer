@@ -7,7 +7,7 @@
     "start": "electron .",
     "dist": "electron-builder"
   },
-  "repository": "https://github.com/yueshutong/SimpleMusicPlayer",
+  "repository": "https://github.com/onblog/SimpleMusicPlayer",
   "keywords": [
     "Electron",
     "quick",
@@ -18,16 +18,14 @@
   "author": "yueshutong",
   "license": "CC0-1.0",
   "devDependencies": {
-    "nodemon": "^1.19.4",
-    "electron": "^6.0.12",
-    "electron-builder": "^21.2.0"
+    "electron": "^6.1.12",
+    "electron-builder": "^21.2.0",
+    "nodemon": "^1.19.4"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
     "bootstrap": "^4.3.1",
-    "electron-store": "^5.0.0",
-    "uuidv4": "^5.0.1",
-    "uuid": "^8.3.2"
+    "electron-store": "^5.0.0"
   },
   "build": {
     "appId": "SimpleMusicPlayer",

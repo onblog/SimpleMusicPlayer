@@ -1,6 +1,9 @@
 const Store = require('electron-store')
-const { v4: uuidv4 } = require('uuid');
 const path = require('path')
+
+const uuid =  () => {
+    return Math.ceil(Math.random()*10000000+100000);
+}
 
 class DataStore extends Store {
     constructor(settings){
@@ -17,7 +20,7 @@ class DataStore extends Store {
     addTracks(tracks){
         const tracksWithProps = tracks.map(track => {
             return {
-                id: uuidv4(),
+                id: uuid(),
                 path: track,
                 filename: path.basename(track)
             }
