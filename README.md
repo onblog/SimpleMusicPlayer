@@ -2,7 +2,7 @@
 
 ```
 # 克隆这仓库
-$ git clone https://github.com/yueshutong/SimpleMusicPlayer
+$ git clone https://github.com/onblog/SimpleMusicPlayer
 # 进入仓库
 $ cd SimpleMusicPlayer
 # 安装依赖库
@@ -68,7 +68,7 @@ console.log(store.get('unicorn'));
 查看本地文件
 
 ```
-% cd /Users/yueshutong/Library/Application\ Support/electron-quick-start
+% cd /Users/onblog/Library/Application\ Support/electron-quick-start
 % ls
 Code Cache                      Local Storage                   Preferences                     config.json
 GPUCache                        Network Persistent State        blob_storage
@@ -77,8 +77,7 @@ GPUCache                        Network Persistent State        blob_storage
         "foo": {
                 "bar": true
         }
-}%                                                                                                                                                                            yueshutong@MacBookPro electron-quick-start % 
-
+}                                                                                                                                                              
 ```
 
 ## js播放音乐
