@@ -27,7 +27,7 @@
     "bootstrap": "^4.3.1",
     "electron-store": "^5.0.0",
     "uuidv4": "^5.0.1",
-    "uuid": "latest"
+    "uuid": "^8.3.2"
   },
   "build": {
     "appId": "SimpleMusicPlayer",
